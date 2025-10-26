@@ -1,1 +1,53 @@
 
+[
+  {
+    "university": "ঢাকা বিশ্ববিদ্যালয় (ক ইউনিট)",
+    "group": "Science",
+    "min_ssc_gpa": 3.5,
+    "min_hsc_gpa": 3.5,
+    "min_total_gpa": 8.0,
+    "min_ssc_year": 2020,
+    "max_ssc_year": 2023,
+    "min_hsc_year": 2023,
+    "max_hsc_year": 2025,
+    "subject_requirements": {
+      "Physics": 3.5,
+      "Chemistry": 3.5,
+      "Math": 3.5,
+      "Biology": 3.5,
+      "English": 3.0
+    },
+    "details": "বিজ্ঞান বিভাগ থেকে এসএসসি ও এইচএসসি পরীক্ষায় চতুর্থ বিষয় সহ মোট জিপিএ ৮.০ থাকতে হবে। আলাদাভাবে ন্যূনতম জিপিএ ৩.৫ থাকতে হবে। পদার্থ, রসায়ন, গণিত, জীববিজ্ঞান বিষয়ে ন্যূনতম জিপিএ ৩.৫ থাকতে হবে।"
+  },
+  {
+    "university": "ঢাকা বিশ্ববিদ্যালয় (খ ইউনিট)",
+    "group": "Humanities",
+    "min_ssc_gpa": 3.0,
+    "min_hsc_gpa": 3.0,
+    "min_total_gpa": 7.0,
+    "min_ssc_year": 2020,
+    "max_ssc_year": 2023,
+    "min_hsc_year": 2023,
+    "max_hsc_year": 2025,
+    "subject_requirements": null,
+    "details": "মানবিক বিভাগ থেকে এসএসসি ও এইচএসসি পরীক্ষায় চতুর্থ বিষয় সহ মোট জিপিএ ৭.০ থাকতে হবে। আলাদাভাবে ন্যূনতম জিপিএ ৩.০ থাকতে হবে।"
+  },
+  {
+    "university": "চট্টগ্রাম বিশ্ববিদ্যালয় (A ইউনিট)",
+    "group": "Science",
+    "min_ssc_gpa": 4.0,
+    "min_hsc_gpa": 4.0,
+    "min_total_gpa": 8.25,
+    "min_ssc_year": 2021,
+    "max_ssc_year": 2023,
+    "min_hsc_year": 2023,
+    "max_hsc_year": 2025,
+    "subject_requirements": {
+      "Physics": 3.5,
+      "Chemistry": 3.5,
+      "Math": 3.0,
+      "Biology": 3.0
+    },
+    "details": "বিজ্ঞান শাখা থেকে এসএসসি/সমমান ও এইচএসসি/সমমান উভয় পরীক্ষায় ৪র্থ বিষয়সহ ন্যূনতম জিপিএ ৪.০০ সহ সর্বমোট জিপিএ ৮.২৫ থাকতে হবে।..."
+  }
+      ]
