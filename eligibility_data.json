@@ -1,53 +1,132 @@
-
 [
-  {
-    "university": "ঢাকা বিশ্ববিদ্যালয় (ক ইউনিট)",
-    "group": "Science",
-    "min_ssc_gpa": 3.5,
-    "min_hsc_gpa": 3.5,
-    "min_total_gpa": 8.0,
-    "min_ssc_year": 2020,
-    "max_ssc_year": 2023,
-    "min_hsc_year": 2023,
-    "max_hsc_year": 2025,
-    "subject_requirements": {
-      "Physics": 3.5,
-      "Chemistry": 3.5,
-      "Math": 3.5,
-      "Biology": 3.5,
-      "English": 3.0
+    {
+        "university": "MIST",
+        "group": "Science",
+        "min_ssc_gpa": 4,
+        "min_hsc_gpa": 0,
+        "min_ssc_year": 2022,
+        "max_ssc_year": 2023,
+        "min_hsc_year": 2024,
+        "max_hsc_year": 2025,
+        "details": "SSC(22,23) = সর্বনিম্ন জিপিএ ৪ (4th sub বাদে)\nHSC(24,25) = পদার্থ,গণিত,রসায়ন ও ইংরেজি মিলে সর্বনিম্ন মোট জিপি ১৮ হতে হবে এবং পদার্থ ,রসায়ন ও গণিতে আলাদাভাবে সর্বনিম্ন জিপি ৪ থাকতে হবে।",
+        "subject_requirements": {
+            "Physics": 4,
+            "Chemistry": 4,
+            "Math": 4
+        },
+        "special_requirements": {
+            "subjects": [
+                "Physics",
+                "Chemistry",
+                "Math",
+                "English"
+            ],
+            "min_total_gpa": 18
+        }
     },
-    "details": "বিজ্ঞান বিভাগ থেকে এসএসসি ও এইচএসসি পরীক্ষায় চতুর্থ বিষয় সহ মোট জিপিএ ৮.০ থাকতে হবে। আলাদাভাবে ন্যূনতম জিপিএ ৩.৫ থাকতে হবে। পদার্থ, রসায়ন, গণিত, জীববিজ্ঞান বিষয়ে ন্যূনতম জিপিএ ৩.৫ থাকতে হবে।"
-  },
-  {
-    "university": "ঢাকা বিশ্ববিদ্যালয় (খ ইউনিট)",
-    "group": "Humanities",
-    "min_ssc_gpa": 3.0,
-    "min_hsc_gpa": 3.0,
-    "min_total_gpa": 7.0,
-    "min_ssc_year": 2020,
-    "max_ssc_year": 2023,
-    "min_hsc_year": 2023,
-    "max_hsc_year": 2025,
-    "subject_requirements": null,
-    "details": "মানবিক বিভাগ থেকে এসএসসি ও এইচএসসি পরীক্ষায় চতুর্থ বিষয় সহ মোট জিপিএ ৭.০ থাকতে হবে। আলাদাভাবে ন্যূনতম জিপিএ ৩.০ থাকতে হবে।"
-  },
-  {
-    "university": "চট্টগ্রাম বিশ্ববিদ্যালয় (A ইউনিট)",
-    "group": "Science",
-    "min_ssc_gpa": 4.0,
-    "min_hsc_gpa": 4.0,
-    "min_total_gpa": 8.25,
-    "min_ssc_year": 2021,
-    "max_ssc_year": 2023,
-    "min_hsc_year": 2023,
-    "max_hsc_year": 2025,
-    "subject_requirements": {
-      "Physics": 3.5,
-      "Chemistry": 3.5,
-      "Math": 3.0,
-      "Biology": 3.0
+    {
+        "university": "মেরিটাইম (FEOS)",
+        "group": "Science",
+        "min_ssc_gpa": 4,
+        "min_hsc_gpa": 4,
+        "min_ssc_year": 2022,
+        "max_ssc_year": 2023,
+        "min_hsc_year": 2024,
+        "max_hsc_year": 2025,
+        "details": "SSC ও HSC তে আলাদাভাবে সর্বনিম্ন জিপিএ 4। পদার্থ,রসায়ন,ম্যাথ ও ইংরেজি ৫ টির যেকোনো দুইটিতে জিপি 4 ও বাকি বিষয়গুলোতে ন্যূনতম জিপি 3 থাকতে হবে",
+        "subject_requirements": null,
+        "special_requirements": {
+            "subjects": [
+                "Physics",
+                "Chemistry",
+                "Math",
+                "Biology",
+                "English"
+            ],
+            "min_total_gpa": 17
+        }
     },
-    "details": "বিজ্ঞান শাখা থেকে এসএসসি/সমমান ও এইচএসসি/সমমান উভয় পরীক্ষায় ৪র্থ বিষয়সহ ন্যূনতম জিপিএ ৪.০০ সহ সর্বমোট জিপিএ ৮.২৫ থাকতে হবে।..."
-  }
+    {
+        "university": "মেরিটাইম (FET)",
+        "group": "Science",
+        "min_ssc_gpa": 4,
+        "min_hsc_gpa": 4,
+        "min_ssc_year": 2022,
+        "max_ssc_year": 2023,
+        "min_hsc_year": 2024,
+        "max_hsc_year": 2025,
+        "details": "SSC ও HSC তে আলাদাভাবে সর্বনিম্ন জিপিএ 4। পদার্থ,রসায়ন,ম্যাথ ও ইংরেজি ৫ টির যেকোনো দুইটিতে জিপি 4 ও বাকি বিষয়গুলোতে ন্যূনতম জিপি 3 থাকতে হবে",
+        "subject_requirements": null,
+        "special_requirements": {
+            "subjects": [
+                "Physics",
+                "Chemistry",
+                "Math",
+                "Biology",
+                "English"
+            ],
+            "min_total_gpa": 15
+        }
+    },
+    {
+        "university": "মেরিটাইম (FMGP)",
+        "group": "Science",
+        "min_ssc_gpa": 3.5,
+        "min_hsc_gpa": 3.5,
+        "min_ssc_year": 2022,
+        "max_ssc_year": 2023,
+        "min_hsc_year": 2024,
+        "max_hsc_year": 2025,
+        "details": "SSC ও HSC তে আলাদাভাবে সর্বনিম্ন জিপিএ 3.5। বাকি বিষয়গুলোতে ন্যূনতম জিপি 3 থাকতে হবে",
+        "subject_requirements": null,
+        "special_requirements": {
+            "subjects": [
+                "Physics",
+                "Chemistry",
+                "Math",
+                "Biology",
+                "English"
+            ],
+            "min_total_gpa": 15
+        }
+    },
+    {
+        "university": "মেরিটাইম (FSA)",
+        "group": "Science",
+        "min_ssc_gpa": 3.5,
+        "min_hsc_gpa": 3.5,
+        "min_ssc_year": 2022,
+        "max_ssc_year": 2023,
+        "min_hsc_year": 2024,
+        "max_hsc_year": 2025,
+        "details": "SSC ও HSC তে আলাদাভাবে সর্বনিম্ন জিপিএ 3.5। বাকি বিষয়গুলোতে ন্যূনতম জিপি 3 থাকতে হবে",
+        "subject_requirements": null,
+        "special_requirements": {
+            "subjects": [
+                "Physics",
+                "Chemistry",
+                "Math",
+                "Biology",
+                "English"
+            ],
+            "min_total_gpa": 15
+        }
+    },
+    {
+        "university": "BUET",
+        "group": "Science",
+        "min_ssc_gpa": 4,
+        "min_hsc_gpa": 5,
+        "min_ssc_year": 2022,
+        "max_ssc_year": 2022,
+        "min_hsc_year": 2024,
+        "max_hsc_year": 2024,
+        "details": "SSC তে সর্বনিম্ন জিপিএ 4\nHSC তে জিপিএ 5 এবং পদার্থ,রসায়ন ও  উচ্চতর গণিতে জিপি 5 থাকতে হবে।\n",
+        "subject_requirements": {
+            "Physics": 5,
+            "Chemistry": 5,
+            "Math": 5
+        },
+        "special_requirements": null
+    }
       ]
